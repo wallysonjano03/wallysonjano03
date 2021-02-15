@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wallysonjano03
+- 👋 Hi, I’m James Wallyson
 - Tecnologias que Utilizo/Estudo:
 
 <img src="https://camo.githubusercontent.com/ec75fffa4a003fa9ea6ba393834fdbf4fab55e5252776c41024e811a351fdec7/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176612f6a6176612d69636f6e2e737667" alt="Java" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/java/java-icon.svg" style="max-width:100%;">
@@ -10,6 +10,17 @@
 <img src="https://camo.githubusercontent.com/6fc2d2fd7489311c12203893aea5125e3ab8a3ee9c09edba4cad7e9a5b5690f2/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e65746c6966796170705f77617465726373732f6e65746c6966796170705f77617465726373732d617232312e737667" alt="CSS3" width="60" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" style="max-width:100%;">
 <img src="https://camo.githubusercontent.com/83a8f93602a3cc9dc9e3d83ccf3cd8c492a7ab1e72c76fe7f633d3005a25d588/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616e67756c61722f616e67756c61722d69636f6e2e737667" alt="Angular" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" style="max-width:100%;">
 <img src="https://user-images.githubusercontent.com/51785898/91357843-411b3900-e7c8-11ea-8161-3e8191a6cde2.png" alt="React.js" width="60" height="40" style="max-width:100%;">
+<img src="https://camo.githubusercontent.com/ff6f52ffdfce44372e3be3eda37d354ce2a15874e9b15996c2263172683f7bcd/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d7973716c2f6d7973716c2d69636f6e2e737667" alt="MySQL" width="60" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" style="max-width:100%;">
+<img src="https://user-images.githubusercontent.com/51785898/91357834-3eb8df00-e7c8-11ea-9936-0ce666ac2a11.png" alt="JavaScript" width="40" height="40" style="max-width:100%;">
+<img src="https://camo.githubusercontent.com/bea3c45894fe8d810cfef5e0ba759d28033e0a534186ea1c1b71c70e1a57554f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f68746d6c352f77335f68746d6c352d69636f6e2e737667" alt="HTML5" width="60" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" style="max-width:100%;">
+<img src="https://camo.githubusercontent.com/6fc2d2fd7489311c12203893aea5125e3ab8a3ee9c09edba4cad7e9a5b5690f2/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e65746c6966796170705f77617465726373732f6e65746c6966796170705f77617465726373732d617232312e737667" alt="CSS3" width="60" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" style="max-width:100%;">
+<img src="https://camo.githubusercontent.com/83a8f93602a3cc9dc9e3d83ccf3cd8c492a7ab1e72c76fe7f633d3005a25d588/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616e67756c61722f616e67756c61722d69636f6e2e737667" alt="Angular" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" style="max-width:100%;">
+<img src="https://user-images.githubusercontent.com/51785898/91357843-411b3900-e7c8-11ea-8161-3e8191a6cde2.png" alt="React.js" width="60" height="40" style="max-width:100%;">
+<img src="https://user-images.githubusercontent.com/51785898/91357845-424c6600-e7c8-11ea-9457-53c06cf3b6ed.png" alt="React-Native" width="60" height="40" style="max-width:100%;">
+<img src="https://user-images.githubusercontent.com/51785898/91357850-44162980-e7c8-11ea-966c-a7ebaba08ba3.png" alt="Node.js" width="40" height="40" style="max-width:100%;">
+<img src="https://user-images.githubusercontent.com/51785898/91358426-3319e800-e7c9-11ea-9df0-b5a207cecfce.png" alt="Typescript" width="40" height="40" style="max-width:100%;">
+<img src="https://user-images.githubusercontent.com/51785898/91358353-0cf44800-e7c9-11ea-9a54-0a988aa2837c.png" alt="Github" width="40" height="40" style="max-width:100%;">
+<img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="Postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width:100%;">
 <!---
 wallysonjano03/wallysonjano03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
